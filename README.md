@@ -1,5 +1,8 @@
 # Setup
 
+> **Deprecated — historical archive.** Continue at [the implemented paper-to-visual-novel project](https://github.com/J10Official/SARAL-Megathon). This historical submission repository contains documentation and a license, rather than the application code. The existing contents are retained for provenance.
+
+
 - Make sure you are in the topmost directory webrenpy.py
 
 - run npm install (make sure you have node package manager)
